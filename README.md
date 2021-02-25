@@ -26,4 +26,4 @@ Preview the prototype.
 ![output](./static/img/p.jpg)
 
 ## RESULT:
-Thus, a user exprience design is created for a music website.
+Thus, a user exprience design is created for a food website.
